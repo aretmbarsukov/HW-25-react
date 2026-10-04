@@ -13,7 +13,7 @@ jobs:
 
       - name: Install, lint, build 🔧
         env:
-          REACT_APP_TMDB_API_KEY: ${{ secrets.REACT_APP_TMDB_API_KEY }}
+          REACT_APP_TMDB_API_KEY: ${{5c3d4668161fb6f8d23cefe809e6fb6c}}
         run: |
           npm install
           npm run lint:js
