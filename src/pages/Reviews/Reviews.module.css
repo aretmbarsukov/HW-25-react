@@ -1,0 +1,42 @@
+.list {
+  display: grid;
+  gap: 13px;
+  margin-top: 18px;
+}
+
+.review {
+  padding: 16px;
+  border: 1px solid #292d38;
+  border-radius: 10px;
+  background: #171b24;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.author {
+  margin: 0;
+  color: #f0eff1;
+  font-size: 13px;
+}
+
+.rating {
+  color: #ffca70;
+  font-size: 11px;
+}
+
+.content {
+  display: -webkit-box;
+  overflow: hidden;
+  margin: 10px 0 0;
+  color: #aeb1bc;
+  font-size: 12px;
+  line-height: 1.7;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+}

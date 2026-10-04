@@ -1,0 +1,13 @@
+.feedback {
+  padding: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 14px;
+  background: #151923;
+  color: #aeb1bc;
+  line-height: 1.6;
+}
+
+.error {
+  border-color: rgba(255, 115, 105, 0.28);
+  color: #ffaaa3;
+}

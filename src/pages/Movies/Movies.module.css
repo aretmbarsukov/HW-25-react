@@ -1,0 +1,45 @@
+.eyebrow {
+  color: #ffc66d;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.17em;
+}
+
+.title {
+  margin: 12px 0 9px;
+  color: #f4f3f2;
+  font-size: clamp(32px, 5vw, 45px);
+  letter-spacing: -0.05em;
+}
+
+.description {
+  margin: 0;
+  color: #a4a7b1;
+  font-size: 15px;
+}
+
+.hint {
+  display: flex;
+  min-height: 230px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #777b87;
+  text-align: center;
+}
+
+.hint p {
+  margin: 12px 0 0;
+  font-size: 14px;
+}
+
+.hintIcon {
+  display: grid;
+  width: 52px;
+  height: 52px;
+  place-items: center;
+  border: 1px solid #343845;
+  border-radius: 50%;
+  color: #ffbd57;
+  font-size: 31px;
+}
