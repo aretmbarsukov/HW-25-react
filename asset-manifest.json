@@ -1,35 +1,35 @@
 {
   "files": {
     "main.css": "/HW-25-react/static/css/main.237a3625.css",
-    "main.js": "/HW-25-react/static/js/main.78a200d4.js",
+    "main.js": "/HW-25-react/static/js/main.6d1f80fe.js",
     "static/css/936.332676fa.chunk.css": "/HW-25-react/static/css/936.332676fa.chunk.css",
-    "static/js/936.1b475d3a.chunk.js": "/HW-25-react/static/js/936.1b475d3a.chunk.js",
+    "static/js/936.68b332bb.chunk.js": "/HW-25-react/static/js/936.68b332bb.chunk.js",
     "static/css/964.0b036c72.chunk.css": "/HW-25-react/static/css/964.0b036c72.chunk.css",
-    "static/js/964.76cf5927.chunk.js": "/HW-25-react/static/js/964.76cf5927.chunk.js",
+    "static/js/964.6c7b1a43.chunk.js": "/HW-25-react/static/js/964.6c7b1a43.chunk.js",
     "static/css/135.b1d2c3f7.chunk.css": "/HW-25-react/static/css/135.b1d2c3f7.chunk.css",
-    "static/js/135.7a54daf3.chunk.js": "/HW-25-react/static/js/135.7a54daf3.chunk.js",
+    "static/js/135.be280364.chunk.js": "/HW-25-react/static/js/135.be280364.chunk.js",
     "static/css/459.afcd07da.chunk.css": "/HW-25-react/static/css/459.afcd07da.chunk.css",
-    "static/js/459.db2e94a3.chunk.js": "/HW-25-react/static/js/459.db2e94a3.chunk.js",
+    "static/js/459.099bb6d2.chunk.js": "/HW-25-react/static/js/459.099bb6d2.chunk.js",
     "static/css/866.4dd57687.chunk.css": "/HW-25-react/static/css/866.4dd57687.chunk.css",
-    "static/js/866.0676ad6b.chunk.js": "/HW-25-react/static/js/866.0676ad6b.chunk.js",
+    "static/js/866.23081e80.chunk.js": "/HW-25-react/static/js/866.23081e80.chunk.js",
     "static/js/11.b700721d.chunk.js": "/HW-25-react/static/js/11.b700721d.chunk.js",
     "index.html": "/HW-25-react/index.html",
     "main.237a3625.css.map": "/HW-25-react/static/css/main.237a3625.css.map",
-    "main.78a200d4.js.map": "/HW-25-react/static/js/main.78a200d4.js.map",
+    "main.6d1f80fe.js.map": "/HW-25-react/static/js/main.6d1f80fe.js.map",
     "936.332676fa.chunk.css.map": "/HW-25-react/static/css/936.332676fa.chunk.css.map",
-    "936.1b475d3a.chunk.js.map": "/HW-25-react/static/js/936.1b475d3a.chunk.js.map",
+    "936.68b332bb.chunk.js.map": "/HW-25-react/static/js/936.68b332bb.chunk.js.map",
     "964.0b036c72.chunk.css.map": "/HW-25-react/static/css/964.0b036c72.chunk.css.map",
-    "964.76cf5927.chunk.js.map": "/HW-25-react/static/js/964.76cf5927.chunk.js.map",
+    "964.6c7b1a43.chunk.js.map": "/HW-25-react/static/js/964.6c7b1a43.chunk.js.map",
     "135.b1d2c3f7.chunk.css.map": "/HW-25-react/static/css/135.b1d2c3f7.chunk.css.map",
-    "135.7a54daf3.chunk.js.map": "/HW-25-react/static/js/135.7a54daf3.chunk.js.map",
+    "135.be280364.chunk.js.map": "/HW-25-react/static/js/135.be280364.chunk.js.map",
     "459.afcd07da.chunk.css.map": "/HW-25-react/static/css/459.afcd07da.chunk.css.map",
-    "459.db2e94a3.chunk.js.map": "/HW-25-react/static/js/459.db2e94a3.chunk.js.map",
+    "459.099bb6d2.chunk.js.map": "/HW-25-react/static/js/459.099bb6d2.chunk.js.map",
     "866.4dd57687.chunk.css.map": "/HW-25-react/static/css/866.4dd57687.chunk.css.map",
-    "866.0676ad6b.chunk.js.map": "/HW-25-react/static/js/866.0676ad6b.chunk.js.map",
+    "866.23081e80.chunk.js.map": "/HW-25-react/static/js/866.23081e80.chunk.js.map",
     "11.b700721d.chunk.js.map": "/HW-25-react/static/js/11.b700721d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.237a3625.css",
-    "static/js/main.78a200d4.js"
+    "static/js/main.6d1f80fe.js"
   ]
 }
